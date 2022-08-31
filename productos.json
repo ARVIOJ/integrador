@@ -1,0 +1,176 @@
+{
+    "status": "success",
+    "items": [{
+            "id": 1,
+            "title": "RAM DDR5 16GB 6000MHz",
+            "price": 2599,
+            "image": "./img/productos/ram1.png",
+            "category": "ram"
+        },
+        {
+            "id": 2,
+            "title": "Tarjeta grafica",
+            "price": 104,
+            "image": "./img/productos/grafica1.png",
+            "category": "grafica"
+        },
+        {
+            "id": 3,
+            "title": "Motherboard",
+            "price": 75,
+            "image": "./img/productos/motherboard1.png",
+            "category": "motherboard"
+        },
+        {
+            "id": 4,
+            "title": "Fuente de poder",
+            "price": 99,
+            "image": "./img/productos/fuentedepoder1.png",
+            "category": "fuente"
+        },
+        {
+            "id": 5,
+            "title": "Gabinete",
+            "price": 105,
+            "image": "./img/productos/gabinete1.png",
+            "category": "gabinete"
+
+        },
+        {
+            "id": 6,
+            "title": "Almacenamiento",
+            "price": 85,
+            "image": "./img/productos/almacenamiento1.png",
+            "category": "memory"
+
+        },
+        {
+            "id": 7,
+            "title": "Memoria RAM",
+            "price": 60,
+            "image": "./img/productos/ram2.png",
+            "category": "ram"
+        },
+        {
+            "id": 8,
+            "title": "Tarjeta grafica",
+            "price": 35,
+            "image": "./img/productos/grafica2.png",
+            "category": "grafica"
+        },
+        {
+            "id": 9,
+            "title": "Motherboard",
+            "price": 799,
+            "image": "./img/productos/motherboard2.png",
+            "category": "motherboard"
+        },
+        {
+            "id": 10,
+            "title": "Fuente de poder",
+            "price": 101,
+            "image": "./img/productos/fuentedepoder2.png",
+            "category": "fuente"
+        },
+        {
+            "id": 11,
+            "title": "Gabinete",
+            "price": 650,
+            "image": "./img/productos/gabinete2.png",
+            "category": "gabinete"
+        },
+        {
+            "id": 12,
+            "title": "Almacenamiento",
+            "price": 65,
+            "image": "./img/productos/almacenamiento2.png",
+            "category": "memory"
+        },
+        {
+            "id": 13,
+            "title": "Memoria RAM",
+            "price": 101,
+            "image": "./img/productos/ram3.png",
+            "category": "ram"
+        },
+        {
+            "id": 14,
+            "title": "Tarjeta grafica",
+            "price": 104,
+            "image": "./img/productos/grafica3.png",
+            "category": "grafica"
+        },
+        {
+            "id": 15,
+            "title": "Motherboard",
+            "price": 75,
+            "image": "./img/productos/motherboard3.png",
+            "category": "motherboard"
+        },
+        {
+            "id": 16,
+            "title": "Fuente de poder",
+            "price": 99,
+            "image": "./img/productos/fuentedepoder3.png",
+            "category": "fuente"
+        },
+        {
+            "id": 17,
+            "title": "Gabinete",
+            "price": 105,
+            "image": "./img/productos/gabinete3.png",
+            "category": "gabinete"
+
+        },
+        {
+            "id": 18,
+            "title": "Almacenamiento",
+            "price": 85,
+            "image": "./img/productos/almacenamiento3.png",
+            "category": "memory"
+
+        },
+        {
+            "id": 19,
+            "title": "Memoria RAM",
+            "price": 60,
+            "image": "./img/productos/ram4.png",
+            "category": "ram"
+        },
+        {
+            "id": 20,
+            "title": "Tarjeta grafica",
+            "price": 35,
+            "image": "./img/productos/grafica4.png",
+            "category": "grafica"
+        },
+        {
+            "id": 21,
+            "title": "Motherboard",
+            "price": 99,
+            "image": "./img/productos/motherboard4.png",
+            "category": "motherboard"
+        },
+        {
+            "id": 22,
+            "title": "Fuente de poder",
+            "price": 101,
+            "image": "./img/productos/fuentedepoder4.png",
+            "category": "fuente"
+        },
+        {
+            "id": 23,
+            "title": "Gabinete",
+            "price": 65,
+            "image": "./img/productos/gabinete4.png",
+            "category": "gabinete"
+        },
+        {
+            "id": 24,
+            "title": "Almacenamiento",
+            "price": 65,
+            "image": "./img/productos/almacenamiento4.png",
+            "category": "memory"
+        }
+    ]
+}
